@@ -20,8 +20,8 @@ In this project the user interactions with articles on the IBM Watson Studio pla
 
 ### Project Organisation
 The project is organized along the following steps:
-    - Exploratory Data Analysis
-    - Rank Based Recommendations
-    - User-User Based Collaborative Filtering
-    - Content Based Recommendations (EXTRA - NOT REQUIRED)
-    - Matrix Factorization
+- Exploratory Data Analysis
+- Rank Based Recommendations
+- User-User Based Collaborative Filtering
+- Content Based Recommendations (EXTRA - NOT REQUIRED)
+- Matrix Factorization
